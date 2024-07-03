@@ -1,11 +1,21 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-06-12', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '欢迎来到我的博客', url: 'https://blog.sqrt7.top' },
+    { title: '桃花坞里桃花庵,桃花庵下桃花仙'},
+    { title: '桃花仙人种桃树,又摘桃花换酒钱'},
+    { title: '酒醒只来花前坐,酒醉还来花下眠'},
+    { title: '半醒半醉日复日,花落花开年复年'},
+    { title: '但愿老死花酒间,不愿鞠躬车马前'},
+    { title: '车尘马足贵者趣,酒盏花枝贫贱缘'},
+    { title: '若将富贵比贫者,一在平地一在天'},
+    { title: '若将花酒比车马,他得驱驰我得闲'},
+    { title: '世人笑我太疯癫,我笑他人看不穿'},
+    { title: '不见五陵豪杰墓,无花无酒锄做田'},
     { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -17,10 +27,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_3: 'BLOG.SQRT7.TOP',
+  HEO_HERO_TITLE_4: '今天心情怎么样?',
+  HEO_HERO_TITLE_5: '这里是随机推荐文章哦~',
+  HEO_HERO_TITLE_LINK: 'https://blog.sqrt7.top/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -36,7 +46,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 研究技术狂魔哥',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
@@ -46,10 +56,11 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/sqrt00',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_ICON3: '',
+  HEO_INFO_CARD_URL3: 'https://linux.do/u/sqrt00/summary',
+  HEO_INFO_CARD_TEXT3: 'L站地址',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -113,9 +124,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_2: '欢迎加入加入Linuxdo社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_3: '点击进入论坛',
+  HEO_SOCIAL_CARD_URL: 'https://linux.do/u/sqrt00/summary',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
