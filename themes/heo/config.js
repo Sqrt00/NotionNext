@@ -124,7 +124,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '欢迎加入加入Linuxdo社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_2: '欢迎加入Linuxdo社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击进入论坛',
   HEO_SOCIAL_CARD_URL: 'https://linux.do/u/sqrt00/summary',
 
