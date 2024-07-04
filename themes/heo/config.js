@@ -6,17 +6,17 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.sqrt7.top' },
-    { title: '桃花坞里桃花庵,桃花庵下桃花仙'},
-    { title: '桃花仙人种桃树,又摘桃花换酒钱'},
-    { title: '酒醒只来花前坐,酒醉还来花下眠'},
-    { title: '半醒半醉日复日,花落花开年复年'},
-    { title: '但愿老死花酒间,不愿鞠躬车马前'},
-    { title: '车尘马足贵者趣,酒盏花枝贫贱缘'},
-    { title: '若将富贵比贫者,一在平地一在天'},
-    { title: '若将花酒比车马,他得驱驰我得闲'},
-    { title: '世人笑我太疯癫,我笑他人看不穿'},
-    { title: '不见五陵豪杰墓,无花无酒锄做田'},
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '桃花坞里桃花庵,桃花庵下桃花仙', url: 'https://blog.sqrt7.top' },
+    { title: '桃花仙人种桃树,又摘桃花换酒钱', url: 'https://blog.sqrt7.top' },
+    { title: '酒醒只来花前坐,酒醉还来花下眠', url: 'https://blog.sqrt7.top' },
+    { title: '半醒半醉日复日,花落花开年复年', url: 'https://blog.sqrt7.top' },
+    { title: '但愿老死花酒间,不愿鞠躬车马前', url: 'https://blog.sqrt7.top' },
+    { title: '车尘马足贵者趣,酒盏花枝贫贱缘', url: 'https://blog.sqrt7.top' },
+    { title: '若将富贵比贫者,一在平地一在天', url: 'https://blog.sqrt7.top' },
+    { title: '若将花酒比车马,他得驱驰我得闲', url: 'https://blog.sqrt7.top' },
+    { title: '世人笑我太疯癫,我笑他人看不穿', url: 'https://blog.sqrt7.top' },
+    { title: '不见五陵豪杰墓,无花无酒锄做田', url: 'https://blog.sqrt7.top' },
+    { title: '建站帮助文档', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
